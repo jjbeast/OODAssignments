@@ -2,7 +2,7 @@
 #include "Inventory.h"
 
 // Allow the compiler to define the remaining
-// comparison operators
+// comparison operators boom
 using namespace std::rel_ops;
 
 //------------------------------------------------------------------------------
