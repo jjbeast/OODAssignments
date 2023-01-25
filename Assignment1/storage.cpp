@@ -87,7 +87,7 @@ int main(int argc, char** argv)
 
     vector<Inventory> storage = parseInventoryFile(infile, validItems);
     infile.close();
-
+    
     printItems(validItems);
     printInventories(storage);
 

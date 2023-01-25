@@ -26,7 +26,7 @@ class Inventory {
              * Create an empty *Air* Node
              */
             Node();
-
+            
             /**
              * Create a Node that contains an ItemStack, *s*
              */
@@ -51,7 +51,7 @@ class Inventory {
          * @pre n > 0
          */
         Inventory(int n);
-
+        
         /**
          * Duplicate an existing Inventory
          */

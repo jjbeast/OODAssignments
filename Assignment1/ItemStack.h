@@ -75,6 +75,7 @@ Item ItemStack::getItem() const
 inline
 int ItemStack::size() const
 {
+   
     return this->quantity;
 }
 
